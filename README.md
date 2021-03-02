@@ -7,7 +7,9 @@ GEICO provides several ways for its policyholders to make payments. While GEICO'
 
 We have been tasked with identifying which customers are likely to make a service payment call in the next 5 days. The Datasets folder contains data on customers who have had a bill due in the next 5 days and whether they made a service payment call. 
 
-# We will construct a model that predicts the likelihood that each policyholder will make a service payment call (CALL_FLAG=1). 
+# Predictive Modeling:
+ 
+We will construct a model that predicts the likelihood that each policyholder will make a service payment call (CALL_FLAG=1). 
 
 # Data Dictionary:
 Var Name      | Description
