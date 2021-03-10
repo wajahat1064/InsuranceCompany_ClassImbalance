@@ -1,7 +1,7 @@
-# GEICO Class Imbalance Project
+# Insurance Company Class Imbalance Project
  
 # Business Problem:
-GEICO provides several ways for its policyholders to make payments. While GEICO's service counselors can take payments over the phone, it is more cost-efficient for customers to make payments through their self-service channels such as online or through the automated phone system. Thus, they would like to use a predictive model to select people to receive a pre-emptive e-mail message designed to encourage them to pay online.
+Insurance Company provides several ways for its policyholders to make payments. While the Insurance Company's service counselors can take payments over the phone, it is more cost-efficient for customers to make payments through their self-service channels such as online or through the automated phone system. Thus, they would like to use a predictive model to select people to receive a pre-emptive e-mail message designed to encourage them to pay online.
 
 # Task at hand:
 
